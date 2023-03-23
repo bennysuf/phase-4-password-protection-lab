@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+
+
+# Create a Sessions controller with a create action for logging in that responds to a POST /login request, and a destroy action for logging out that responds to a DELETE /logout request.
+
